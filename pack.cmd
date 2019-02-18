@@ -1,0 +1,1 @@
+"%USERPROFILE%\.nuget\packages\nuget.commandline\4.9.2\tools\nuget.exe" pack src\GammaJul.ReSharper.EnhancedTooltip\GammaJul.ReSharper.EnhancedTooltip.nuspec -NoPackageAnalysis -OutputDirectory build\Release
